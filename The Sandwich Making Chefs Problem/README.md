@@ -1,16 +1,16 @@
 # The Sandwich Making Chefs Problem
-# Description
+## Description
 This project tackles a process coordination problem called "The Sandwich Making Chefs Problem", This problem was implemented from the cigarette smokers problem by S. Patil. The problem is solved by evaluating facilities for the synchronizing of concurrent threads and processes.
 
 ## Files in this project:
-MakeSandwich.java - Creates the agent thread and the three chef threads
-Table.java - A shared table between the agent and chef to keep track of the current sandwich being made
+- MakeSandwich.java - Creates the agent thread and the three chef threads
+- Table.java - A shared table between the agent and chef to keep track of the current sandwich being made
 
 ## Usage
 To run this program in Eclipse:
  - Open a Java IDE
  - load the project 'The Sandwich Making Chefs Problem' and navigate to src\MakeSandwich.java from the project folder.
- - Navigate to the Run tab in the toolbox and click Run '101201545_Assignment1'
+ - Navigate to the Run tab in the toolbox and click Run 'The Sandwich Making Chefs Problem'
  
 ## When this program runs:
 - The main function MakeSandwich() in the MakeSandwich.java is invoked
