@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains projects focused on object oriented programming in Java. The projects included apply real time programming concepts such as:
-- UDP Inter-process communication
+- UDP inter-process communication
 - Multi-threaded programming (Parallel Programming)
 - Real Time scheduling theories
   - Process-based scheduling, Cyclic executives
