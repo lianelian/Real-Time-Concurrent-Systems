@@ -1,7 +1,7 @@
 =====================================================
-Assignment #1 - The Sandwich Making Chefs Problem
-Student Name: Lian Elian
-Student Number: 101201545
+Project Title - The Sandwich Making Chefs Problem
+Description - This project tackles a process coordination problem called "The Sandwich Making Chefs Problem", This problem was implemented from the cigarette smokers problem by S. Patil. The problem is solved by evaluating facilities for the synchronizing of concurrent threads and processes.
+Name: Lian Elian
 =====================================================
 Files in this project:
 MakeSandwich.java: Creates the agent thread and the three chef threads
