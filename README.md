@@ -5,9 +5,9 @@ This repository contains projects focused on object oriented programming in Java
 - UDP Inter-process communication
 - Multi-threaded programming (Parallel Programming)
 - Real Time scheduling theories
--- Process-based scheduling, Cyclic executives
--- Utilization based scheduling, Rate-monotonic analysis
--- Priority-based scheduling
+  - Sub Process-based scheduling, Cyclic executives
+  - Sub Utilization based scheduling, Rate-monotonic analysis
+  - Sub Priority-based scheduling
 - Performance analysis of multithreaded applications
 
 ## Table of Contents (Navigate to each project's README.txt file for more information)
